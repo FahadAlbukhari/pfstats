@@ -43,8 +43,8 @@ from collections import defaultdict
 # Config
 ########################################################
 
-default_log_file = r'/var/log/postfix/mail.log'
-default_log_dir = r'/var/log/postfix/'  # Must end with slash '/'
+default_log_file = r'/var/log/mail.log'
+default_log_dir = r'/var/log/'  # Must end with slash '/'
 
 ########################################################
 # Predefined variables
